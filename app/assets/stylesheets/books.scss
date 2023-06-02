@@ -1,3 +1,75 @@
-// Place all the styles related to the books controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: https://sass-lang.com/
+*{
+    color: #333;
+}
+
+
+.table{
+    width: 800px;
+    margin-left: 30px;
+    font-size: 15px;
+}
+
+h1{
+    margin-left: 30px;
+}
+
+.title{
+    width:200px;
+}
+
+.body{
+    width:300px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.link_group{
+    width: 240px;
+}
+
+.link a{
+    margin-right: 10px;
+}
+
+.class{
+    line-height: 35px;
+}
+
+.label{
+    display: block;
+}
+
+.form{
+    margin-bottom: 20px;
+}
+
+
+
+.flash{
+    color: green;
+}
+
+.show{
+    margin-left: 50px;
+}
+
+.link_show a{
+    padding-left: 5px;
+}
+
+.link_show{
+    margin-left: 20px;
+}
+
+
+.edit{
+    margin-left: 50px;
+}
+
+.button{
+    margin-bottom: 10px;
+}
+
+.link_edit a{
+    padding-left: 5px;
+}
